@@ -20,7 +20,11 @@ To run the example script and the DNN-HA model in Python, Numpy, Scipy and Tenso
 
 ----
 ## Citation
-If you use this code, please cite the corresponding paper or this repository.
+If you use this code, please cite the corresponding paper or this repository:
+
+Fotios Drakopoulos, Arthur Van Den Broucke, & Sarah Verhulst. (2023). DNN-HA: A DNN-based hearing-aid strategy for real-time processing (v1.0). Zenodo. https://doi.org/10.5281/zenodo.7717218
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7717218.svg)](https://doi.org/10.5281/zenodo.7717218)
 
 ##
 For questions, please reach out to one of the corresponding authors:
