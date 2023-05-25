@@ -1,8 +1,8 @@
 ## DNN-based hearing-aid strategy for real-time processing
 
-This repository contains a deep-neural-network hearing-aid (DNN-HA) processing strategy that can provide individualised sound processing for the audiogram of a listener using a single DNN model architecture. The supporting paper will be presented in ICASSP 2023 – 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), scheduled for 4-9 June 2023 in Rhodes Island, Greece:
+This repository contains a deep-neural-network hearing-aid (DNN-HA) processing strategy that can provide individualised sound processing for the audiogram of a listener using a single DNN model architecture. The supporting paper can be found [here](https://ieeexplore.ieee.org/abstract/document/10094887) and can be cited as follows:
 
-> "A DNN-based hearing-aid strategy for real-time processing: One size fits all" by Fotios Drakopoulos, Arthur Van Den Broucke, Sarah Verhulst
+> F. Drakopoulos, A. Van Den Broucke and S. Verhulst, "A DNN-Based Hearing-Aid Strategy For Real-Time Processing: One Size Fits All," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10094887.
 
 The DNN-HA strategy uses an audio signal and an audiogram as inputs to process sound in real-time, such as to provide optimal HA processing that compensates for the elevated hearing thresholds of an individual listener. The `CNN-HA-12layers` folder contains the trained DNN-HA model, while an example script `test_DNN-HA_wavfile.py` is provided for running and evaluating the model. This repository also contains this `README.md` document, a license file, and the supplementary files that are necessary for the execution of the model.
 
